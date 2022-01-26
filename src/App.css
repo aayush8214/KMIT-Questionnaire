@@ -1,0 +1,42 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  height : 700px;
+  width: 700px;
+  margin: 20px auto ;
+}
+.inner{
+  height : 500px;
+  width: 700px;
+  /* margin: 100px auto ; */
+}
+.bar{
+  width :100%
+}
+#answers{
+  margin-top: 50px;
+}
+.answerVal{
+  font-size: 0.8rem;
+  margin-left : 100px;
+  margin-top: 20px;
+}
+button{
+  height: 30px;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+}
+.nextQues{
+  margin: 0 37%;
+}
+.textVal{
+  margin: 40px 47%;
+  font-weight: bold;
+}
+.checked {
+  color: orange;
+}
